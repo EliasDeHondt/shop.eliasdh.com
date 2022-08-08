@@ -10,7 +10,7 @@
     <meta property="og:image" content="https://eliasdh.com/assets/img/inverted-logo.png"/>
     <!---------------->
     <!--Favicon-->
-    <link rel="shortcut icon" href="/assets/img/logo.png" type="/assets/img/png"/>
+    <link href="/assets/img/favicon.ico" rel="icon"/>
     <!----------->
     <!--Boxicons-->
     <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet"/>
@@ -25,9 +25,10 @@
   <body>
     <!--Header-->
     <header class="header" id="home">
-      <!--Navigation-->
+      <!--Top Navbar-->
       <nav class="navbar">
         <div class="row container d-flex">  
+          <img src="/assets/img/logo.png" alt="" />
           <div class="nav-list d-flex">
             <a href="#home">Home</a>
             <a href="#shop">Shop</a>
@@ -43,17 +44,15 @@
             <div class="icon user-icon d-flex">
               <i class="bx bx-user"></i>
             </div>
-            <div class="icon d-flex">
-              <i class="bx bx-bell"></i>
-              <span></span>
-            </div>
           </div>
           <!--Hamburger-->
           <div class="hamburger">
             <i class="bx bx-menu-alt-right"></i>
           </div>
+          <!------------->
         </div>
       </nav>
+      <!-------------->
       <!--Hero Area-->
       <div class="hero">
         <div class="row container d-flex">
@@ -62,10 +61,11 @@
             <h1>Elias<span class="i">DH</span> Shop</h1>
             <button class="btn"><a href="#shop">Explore Now!</a></button>
           </div>
-          <img src="/assets/img/logo.png" alt="" />
         </div>
       </div>
+      <!------------->
     </header>
+    <!---------->
     <!--Collection-->
     <section class="section collection" id="shop">
       <div class="title">
@@ -97,6 +97,7 @@
         <a class="btn loadmore">Load More</a>
       </div>
     </section>
+    <!-------------->
     <!--Statistics-->
     <section class="section statistics">
       <div class="title">
@@ -134,7 +135,8 @@
         </div>
       </div>
     </section>
-    <!--Footer-->
+    <!-------------->
+    <!--Bottom-->
     <footer class="footer" id="about-us">
       <div class="row container">
         <div class="col">
@@ -169,6 +171,7 @@
         </div>
       </div>
     </footer>
+    <!---------->
     <!--Login and Signup Form-->
     <div class="user-form">
       <div class="close-form d-flex"><i class="bx bx-x"></i></div>
@@ -262,12 +265,16 @@
             <img src="/assets/img/trial.svg" alt="" />
           </div>
         </div>
+        <!------------>
       </div>
     </div>
+    <!------------------------->
     <!--SwiperJs-->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <!--Custom Script-->
+    <!------------>
+    <!--JavaScript Libraries-->
     <script src="/assets/js/product.js"></script>
     <script src="/assets/js/main.js"></script>
+    <!------------------------>
   </body>
 </html>
