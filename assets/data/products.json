@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "230",
+      "url": "/assets/img/product-1.png",
+      "category": "data-3"
+    },
+    {
+      "id": 2,
+      "title": "Armani Frok Ladies -  Imported Fork Blue",
+      "price": "210",
+      "url": "/assets/img/product-2.png",
+      "category": "data-3"
+    },
+    {
+      "id": 3,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "90",
+      "url": "/assets/img/product-3.png",
+      "category": "data-1"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "100",
+      "url": "/assets/img/product-4.png",
+      "category": "data-1"
+    },
+    {
+      "id": 5,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "100",
+      "url": "/assets/img/product-5.png",
+      "category": "data-3"
+    },
+    {
+      "id": 6,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "50",
+      "url": "/assets/img/product-6.png",
+      "category": "data-2"
+    },
+    {
+      "id": 7,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "50",
+      "url": "/assets/img/product-7.png",
+      "category": "data-4"
+    },
+    {
+      "id": 8,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "300",
+      "url": "/assets/img/product-8.png",
+      "category": "data-4"
+    },
+    {
+      "id": 9,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "300",
+      "url": "/assets/img/product-9.png",
+      "category": "data-4"
+    },
+    {
+      "id": 10,
+      "title": "ROG Headphone - Model 25",
+      "price": "300",
+      "url": "/assets/img/product-10.png",
+      "category": "data-2"
+    },
+    {
+      "id": 11,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "700",
+      "url": "/assets/img/product-11.png",
+      "category": "data-2"
+    },
+    {
+      "id": 12,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "500",
+      "url": "/assets/img/product-12.png",
+      "category": "data-2"
+    },
+    {
+      "id": 13,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "900",
+      "url": "/assets/img/product-13.png",
+      "category": "data-2"
+    },
+    {
+      "id": 14,
+      "title": "ROG Headphone - Model 25",
+      "price": "100",
+      "url": "/assets/img/product-14.png",
+      "category": "data-2"
+    },
+    {
+      "id": 15,
+      "title": "ROG Headphone - Model 25",
+      "price": "250",
+      "url": "/assets/img/product-15.png",
+      "category": "data-2"
+    },
+    {
+      "id": 16,
+      "title": "ROG Headphone - Model 25",
+      "price": "350",
+      "url": "/assets/img/product-16.png",
+      "category": "data-2"
+    }
+  ]
+}
